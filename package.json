@@ -1,0 +1,16 @@
+{
+  "name": "random-msg-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Oscar Aguirre <oscar.aguirre.tarazona@gmail.com>",
+  "license": "ISC",
+  "bin":{
+    "random-msg-test": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
